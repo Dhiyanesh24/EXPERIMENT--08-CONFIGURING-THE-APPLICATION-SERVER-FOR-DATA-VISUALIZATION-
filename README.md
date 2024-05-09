@@ -26,6 +26,10 @@ As the application server market matures, high performance becomes a stronger cr
  ![image](https://github.com/vasanthkumarch/EXPERIMENT--08-CONFIGURING-THE-APPLICATION-SERVER-FOR-DATA-VISUALIZATION-/assets/36288975/4becc339-c77e-4568-9b79-aeaed3734169)
 8. save to update the visualization on the dashboard as shown in the output 
 
+```
+Name : Dhiyaneshwar P
+Reg.no : 212222110009
+```
 ## OUTPUT 
 ![iot last](https://github.com/Dhiyanesh24/EXPERIMENT--08-CONFIGURING-THE-APPLICATION-SERVER-FOR-DATA-VISUALIZATION-/assets/118362288/8c7fffc4-a2d4-4d35-8e52-8ea0bf5cc757)
 ![WhatsApp Image 2024-05-09 at 13 34 49_4dc546b6](https://github.com/Dhiyanesh24/EXPERIMENT--08-CONFIGURING-THE-APPLICATION-SERVER-FOR-DATA-VISUALIZATION-/assets/118362288/1a184bc0-c91a-4857-85f5-8246d2af27c9)
