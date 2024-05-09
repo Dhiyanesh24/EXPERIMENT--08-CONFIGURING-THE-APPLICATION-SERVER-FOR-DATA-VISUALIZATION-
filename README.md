@@ -26,13 +26,17 @@ As the application server market matures, high performance becomes a stronger cr
  ![image](https://github.com/vasanthkumarch/EXPERIMENT--08-CONFIGURING-THE-APPLICATION-SERVER-FOR-DATA-VISUALIZATION-/assets/36288975/4becc339-c77e-4568-9b79-aeaed3734169)
 8. save to update the visualization on the dashboard as shown in the output 
 
-
+### Name : AAKASH .P 
+### REG NO : 212222110001
 ## OUTPUT 
  
 ![image](https://github.com/vasanthkumarch/EXPERIMENT--08-CONFIGURING-THE-APPLICATION-SERVER-FOR-DATA-VISUALIZATION-/assets/36288975/8ead363c-7b62-42de-8918-2493fdf96696)
+<img src="https://github.com/Aakash0407/EXPERIMENT--08-CONFIGURING-THE-APPLICATION-SERVER-FOR-DATA-VISUALIZATION-/assets/118799103/afb0b7a9-8c98-44b2-8a35-aaaa052ae013" width="900" height="600"> 
+<img src="https://github.com/Aakash0407/EXPERIMENT--08-CONFIGURING-THE-APPLICATION-SERVER-FOR-DATA-VISUALIZATION-/assets/118799103/bee09bcb-76f0-4a98-8bda-16c50a861061" width="900" height="600"> 
+<img src="https://github.com/Aakash0407/EXPERIMENT--08-CONFIGURING-THE-APPLICATION-SERVER-FOR-DATA-VISUALIZATION-/assets/118799103/750e5017-4014-4b4b-9ebc-310196cee50a" width="900" height="600">
 
 
+## FINAL OUTPUT : 
+<img src="https://github.com/Aakash0407/EXPERIMENT--08-CONFIGURING-THE-APPLICATION-SERVER-FOR-DATA-VISUALIZATION-/assets/118799103/31e40571-0405-4e92-aa45-c970bbfd972c" width="900" height="600"> 
 
-## Results: 
-
-  The Application  server and network server data is add on the data dashboard using visualiztion editor 
+## Results: The Application  server and network server data is add on the data dashboard using visualiztion editor 
