@@ -27,11 +27,8 @@ As the application server market matures, high performance becomes a stronger cr
 8. save to update the visualization on the dashboard as shown in the output 
 
 ## OUTPUT 
- 
-![image](https://github.com/vasanthkumarch/EXPERIMENT--08-CONFIGURING-THE-APPLICATION-SERVER-FOR-DATA-VISUALIZATION-/assets/36288975/8ead363c-7b62-42de-8918-2493fdf96696)
-<img src="https://github.com/Aakash0407/EXPERIMENT--08-CONFIGURING-THE-APPLICATION-SERVER-FOR-DATA-VISUALIZATION-/assets/118799103/afb0b7a9-8c98-44b2-8a35-aaaa052ae013" width="900" height="600"> 
-<img src="https://github.com/Aakash0407/EXPERIMENT--08-CONFIGURING-THE-APPLICATION-SERVER-FOR-DATA-VISUALIZATION-/assets/118799103/bee09bcb-76f0-4a98-8bda-16c50a861061" width="900" height="600"> 
-<img src="https://github.com/Aakash0407/EXPERIMENT--08-CONFIGURING-THE-APPLICATION-SERVER-FOR-DATA-VISUALIZATION-/assets/118799103/750e5017-4014-4b4b-9ebc-310196cee50a" width="900" height="600">
+![iot last](https://github.com/Dhiyanesh24/EXPERIMENT--08-CONFIGURING-THE-APPLICATION-SERVER-FOR-DATA-VISUALIZATION-/assets/118362288/8c7fffc4-a2d4-4d35-8e52-8ea0bf5cc757)
+
 
 
 ## FINAL OUTPUT : 
